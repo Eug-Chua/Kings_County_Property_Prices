@@ -4,10 +4,10 @@
 This project aims to predict house prices using linear regression and advanced machine learning techniques like XGBoost. Accurate house price prediction is crucial for stakeholders like real estate developers, homeowners, and investors. By modeling key features like the number of rooms, living space, and quality of construction, this project provides a transparent and interpretable solution for estimating housing prices in a data-driven manner.
 
 ## Key Features
-    - Data Preprocessing: Efficient handling of missing data, outliers, and data normalization techniques ensures model robustness.
-    - Feature Engineering: Creation of interaction terms, polynomial features, and exploration of the most influential predictors to improve model accuracy.
-    - Modeling Techniques: Linear regression was initially used for simplicity and interpretability, while more sophisticated models like XGBoost were applied to handle non-linearity and improve prediction accuracy.
-    - Model Evaluation: Metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared are used to assess model performance and generalizability.
+- Data Preprocessing: Efficient handling of missing data, outliers, and data normalization techniques ensures model robustness.
+- Feature Engineering: Creation of interaction terms, polynomial features, and exploration of the most influential predictors to improve model accuracy.
+- Modeling Techniques: Linear regression was initially used for simplicity and interpretability, while more sophisticated models like XGBoost were applied to handle non-linearity and improve prediction accuracy.
+- Model Evaluation: Metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared are used to assess model performance and generalizability.
 
 ## Technologies Used
 - Programming Language: Python
